@@ -1,15 +1,15 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
   }
-  
+
   button {
-    cursor: pointer;
+  cursor: pointer;
   }
-  
+
   body {
-    background-color: black;
+    background-image: url(bck.jpg);
     color: #fff;
     height: 100vh;
     display: flex;
@@ -96,10 +96,10 @@
   }
   
   .correct {
-    background-color: black;
+    background-color: rgb(6, 48, 12);
   }
   
   .incorrect {
-    background-color: black;
+    background-color: rgb(53, 9, 9);
   }
   

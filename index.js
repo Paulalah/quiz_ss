@@ -111,7 +111,7 @@ function finishGame() {
 
 const questions = [
   {
-    question: "Quantas luas tem marte",
+    question: "Quantas luas tem marte?",
     answers: [
       { text: "3 luas", correct: false },
       { text: "7 luas", correct: false },
@@ -120,7 +120,7 @@ const questions = [
     ]
   },
   {
-    question: "Qual é o maior planeta do sistema solar ",
+    question: "Qual é o maior planeta do sistema solar?",
     answers: [
       { text: "Júpter", correct: true },
       { text: "saturno", correct: false },
@@ -129,7 +129,7 @@ const questions = [
     ]
   },
   {
-    question: 'Qual planeta foi considerado planeta anão em 2006',
+    question: 'Qual planeta foi considerado planeta anão em 2006?',
     answers: [
       { text: 'Plutão', correct: true },
       { text: 'Saturno', correct: false },
@@ -138,7 +138,7 @@ const questions = [
     ]
   },
   {
-    question: 'Marte é conhecido como planeta vermelho',
+    question: 'Marte é conhecido como planeta vermelho?',
     answers: [
       { text: "Verdadeiro", correct: true },
       { text: "Falso", correct: false }
